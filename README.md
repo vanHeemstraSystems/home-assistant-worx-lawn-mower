@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+home-assistant-worx-lawn-mower
+# Home Assistant Worx Lawn Mower
 
-Based on "ABC" at https://www.abc.com/
+Based on "Worx Lawn Mower" at https://github.com/vanHeemstraSystems/worx-lawn-mower
 
 ## 100 - Introduction
 
